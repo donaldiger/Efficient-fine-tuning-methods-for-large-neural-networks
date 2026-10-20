@@ -1,0 +1,9 @@
+.venv/
+hf-env/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+outputs/
+checkpoints/
+*.safetensors
+*.bin
